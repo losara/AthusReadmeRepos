@@ -1,2 +1,2 @@
 # AthusReadmeRepos
-I am the master.
+This is an example.
