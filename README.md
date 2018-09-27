@@ -1,2 +1,2 @@
 # AthusReadmeRepos
-This is branch 1.
+This is an example in branch 1.
