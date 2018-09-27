@@ -1,3 +1,3 @@
 # AthusReadmeRepos
 Hello, This is an example in br1.
-I have maded changes.
+I have made changes.
